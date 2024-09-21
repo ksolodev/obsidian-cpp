@@ -11,8 +11,12 @@
             "id": "a13acfa3e0bf0884",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Полиморфизм.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Полиморфизм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Полиморфизм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Полиморфизм.md"
+              }
             }
           },
           {
@@ -149,10 +157,11 @@
   },
   "active": "a13acfa3e0bf0884",
   "lastOpenFiles": [
+    "ООП.md",
+    "Полиморфизм.md",
     "_Главная.md",
     "Наследование.md",
     "Наследование.md",
-    "ООП.md",
     "Инкапсуляция.md",
     "Инкапсуляция.md",
     "Классы и объекты.md",
@@ -160,7 +169,6 @@
     "Классы_и_объекты.md",
     "Указатели и ссылки.md",
     "Классы.md",
-    "Полиморфизм.md",
     "Введение в C++.md",
     "ООП_оптимизировано.md",
     "Синтаксис.md",
